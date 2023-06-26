@@ -11,4 +11,10 @@ Growth mindset is the mindframe of having natural talent but also incorporating 
 2. Everyone above you was once at the point you are
 3. You just need to remember you havent learned or made it **YET** 
 
+### Introducing Me
+
+My name is Alejandra Altamirano, my pronouns are she/her. I just relocated two days ago to Seattle from Arizona.
+
+My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating. 
+
 [Markdown Notes and Questions] (./markdown-notes.md)
