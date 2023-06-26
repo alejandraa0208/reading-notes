@@ -17,6 +17,10 @@ My name is Alejandra Altamirano, my pronouns are she/her. I just relocated two d
 
 My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating. 
 
-[Github Profile](https://github.com/alejandraa0208)
+# TABLE OF CONTENTS
 
-[Markdown Notes and Questions](./markdown-notes.md)
+1. [Github Profile](https://github.com/alejandraa0208)
+
+2. [Markdown Notes and Questions](./markdown-notes.md)
+
+3.  [Choosing a Text Editor Notes & Questions](./choosing-a-text-editor.md)
