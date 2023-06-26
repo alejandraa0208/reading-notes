@@ -23,4 +23,4 @@ My background includes 4 years of military experience in the intelligence field.
 
 2. [Markdown Notes and Questions](./markdown-notes.md)
 
-3.  [Choosing a Text Editor Notes & Questions](./choosing-a-text-editor.md)
+3. [Choosing a Text Editor Notes & Questions](./choosing-a-text-editor.md)
