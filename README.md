@@ -9,6 +9,6 @@ Growth mindset is the mindframe of having natural talent but also incorporating 
 
 1. Always remember you can get smarter
 2. Everyone above you was once at the point you are
-3. You just need to remember you havent learned or made it ** **YET** **
+3. You just need to remember you havent learned or made it **YET** 
 
 [Markdown Notes and Questions] (./markdown-notes.md)
