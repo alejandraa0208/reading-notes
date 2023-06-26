@@ -9,9 +9,9 @@
   * How many do you need to create the smallest heading?
      - Three \# are needed to create the smallest heading
      
-4. When making text bold or italicized for emphasis, it is best to practice to use which symbol?   
-     - To create bold and italicized text use the symbol \**
-5. How do you create a link with Markdown?
-   - Wrap link text in \[] and then wrap the URL or relative path in \()
-6. What are the three symbols you can use to create and unordered list with Markdown?
-7. - The three symbols are \-, \* and \+
+4. When making text bold or italicized for emphasis, it is best to practice to use which symbol?
+ - To create bold and italicized text use the symbol \**
+6. How do you create a link with Markdown?
+ - Wrap link text in \[] and then wrap the URL or relative path in \()
+7. What are the three symbols you can use to create and unordered list with Markdown?
+ - The three symbols are \-, \* and \+
