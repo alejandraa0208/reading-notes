@@ -17,4 +17,4 @@ My name is Alejandra Altamirano, my pronouns are she/her. I just relocated two d
 
 My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating. 
 
-[Markdown Notes and Questions] (./markdown-notes.md)
+[Markdown Notes and Questions](./markdown-notes.md)
