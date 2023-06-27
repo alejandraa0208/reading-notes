@@ -17,7 +17,7 @@ My name is Alejandra Altamirano, my pronouns are she/her. I just relocated two d
 
 My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating. 
 
-# TABLE OF CONTENTS
+# Code 102 Reading Notes
 
 1. [Github Profile](https://github.com/alejandraa0208)
 
