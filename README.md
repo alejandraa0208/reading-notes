@@ -21,6 +21,6 @@ My background includes 4 years of military experience in the intelligence field.
 
 1. [Github Profile](https://github.com/alejandraa0208)
 
-2. [Markdown Notes and Questions](./markdown-notes.md)
+2. [Class 01 Notes](./markdown-notes.md)
 
-3. [Choosing a Text Editor Notes & Questions](./text-editor.md)
+3. [Class 02 Notes](./text-editor.md)
