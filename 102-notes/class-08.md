@@ -9,6 +9,7 @@ syntax = for (incrementor - break condition - updater) {
 ex - 
 for (let i = 0; i<10; i++) {}
 While Loop - syntax = while 
+
  ## Example of looping code 
 
 
