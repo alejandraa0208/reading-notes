@@ -23,7 +23,7 @@ My background includes 4 years of military experience in the intelligence field.
 
 1. [Github Profile](https://github.com/alejandraa0208)
 
-2. Code 102 Reading Notes
+2. Code 102 - Intro to Software Development
    - [Class 01 Notes](./102-notes/class-01.md)
    - [Class 02 Notes](./102-notes/class-02.md)
    - [Class 03 Notes](./102-notes/class-03.md)
@@ -33,7 +33,7 @@ My background includes 4 years of military experience in the intelligence field.
    - [Class 07 Notes](./102-notes/class-07.md)
    - [Class 08 Notes](./102-notes/class-08.md)
 
-3. Code 201 Reading Notes
+3. Code 201 - Foundations of Software Development
 
    - [Class 01 Notes](./201-notes/class-01.md)
    - [Class 02 Notes](./201-notes/class-02.md)
@@ -51,4 +51,5 @@ My background includes 4 years of military experience in the intelligence field.
    - [Class 14 Notes](./201-notes/class-14.md)
    - [Class 15 Notes](./201-notes/class-15.md)
    
-
+4. Code 301 - Intermediate Software Development 
+5. Code 401 - Addvanced Software Development
