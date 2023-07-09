@@ -1,23 +1,21 @@
-# reading-notes
+# reading notes
 My reading notes repository
 
 ## Growth Mindset Explanation
 
-Growth mindset is the mindframe of having natural talent but also incorporating the effort into succeeding in something 
+Growth mindset is the mindframe of having natural talent but also incorporating the effort into succeeding in something.
 
-### Three reminders to stay in a growth mindset 
+### Three reminders to stay in a growth mindset
 
 1. Always remember you can get smarter
 2. Everyone above you was once at the point you are
-3. You just need to remember you havent learned or made it **YET** 
+3. You just need to remember you havent learned or made it **YET**
 
 ### Introducing Me
 
 My name is Alejandra Altamirano, my pronouns are she/her. I just relocated two days ago to Seattle from Arizona.
 
-My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating. 
-
-
+My background includes 4 years of military experience in the intelligence field. I also have experience with fraud and private investigating.
 
 # Table of Contents
 
@@ -51,6 +49,5 @@ My background includes 4 years of military experience in the intelligence field.
    - [Class 13 Notes](./201-notes/class-13.md)
    - [Class 14 Notes](./201-notes/class-14.md)
    - [Class 15 Notes](./201-notes/class-15.md)
-   
-4. Code 301 - Intermediate Software Development 
+4. Code 301 - Intermediate Software Development
 5. Code 401 - Addvanced Software Development
