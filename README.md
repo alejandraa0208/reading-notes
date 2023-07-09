@@ -35,6 +35,7 @@ My background includes 4 years of military experience in the intelligence field.
 
 3. Code 201 - Foundations of Software Development
 
+   - [Prompt Engineering](./Code%20201%20-%20Foundations%20of%20Software%20Development/prompt.engineering.md)
    - [Class 01 Notes](./201-notes/class-01.md)
    - [Class 02 Notes](./201-notes/class-02.md)
    - [Class 03 Notes](./201-notes/class-03.md)
