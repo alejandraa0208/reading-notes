@@ -1,8 +1,8 @@
 # Prompting ChatGPT and Google Bard
 
-## How to change a tire on a 2016 Chevy Cruze? 
+## How to change a tire on a 2016 Chevy Cruze?
 
-### Google Bard Response: 
+### Google Bard Response
 
 Here are the steps on how to change a tire on a 2016 Chevy Cruze:
 
@@ -35,7 +35,7 @@ Here are some additional tips:
 
 Note: Some 2016 Chevy Cruzes do not come with a spare tire. If your car does not have a spare tire, you will need to call a tow truck or roadside assistance.
 
-### ChatGPT Response: 
+### ChatGPT Response
 
 Changing a tire on a 2016 Chevy Cruze involves several steps. Here's a general guide on how to do it:
 
@@ -66,3 +66,4 @@ Changing a tire on a 2016 Chevy Cruze involves several steps. Here's a general g
 Remember to have the damaged tire repaired or replaced as soon as possible, as spare tires are typically intended for temporary use only.
 
 It's essential to consult your vehicle's owner's manual for specific instructions and safety precautions that may be unique to your Chevy Cruze model.
+[EOF]
