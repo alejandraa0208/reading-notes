@@ -83,3 +83,8 @@ What is JavaScript?
 ## Things I want to know more about
 
 I want to know more in depth on html tags and shortcuts of adding javascript to html so that coding doesn't get messy for me.
+
+## LECTURE NOTES
+
+.eslintrc.json is the official name for Javascript. 
+
