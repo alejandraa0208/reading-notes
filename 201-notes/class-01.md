@@ -1,5 +1,28 @@
 # Class 01 Notes
 
+1. Compose a short poem describing how HTTP sends data between computers.
+
+- HTTP, the digital stream
+Connecting the world with different dreams
+Data bits take flight
+Linking everyones computers, day and night.
+
+2.Describe how HTML, CSS, and JS files are 'parsed' in the browser.
+
+- When the browswer loads websites/pages it fetches the HTML page and parses through the HTML, then once it encounters a \<script> tag it will request those files and any CSS and JS files.
+
+How can you find images to add to a website?
+
+- Search engine searches and taking the image address.
+
+4.How do you create a string vs a number in Javascript?
+
+- To create a string you using let greeting = 'hello, how old are you?' and to create a number let age = 25.
+
+5.What is a variable and why are they important in Javascript?
+
+- A variable is a container that holds a value and it is important because it stores and manages data.
+
 ## Introduction to HTML
 
 1. What is an HTML attribute?
