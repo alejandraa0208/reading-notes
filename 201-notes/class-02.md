@@ -67,7 +67,7 @@ color and padding are properties
 4. What is the difference between the logical operator && and \|| ?
 
 - For the &&: it returns true if both operands are true and multiple conditions can be executed. If any are false, it returns false. 
-- For \||: it returns true if either operand is true and if both are false then it returns false.
+- For \|| : it returns true if either operand is true and if both are false then it returns false.
 
 ## Things I want to know more about
 
