@@ -108,3 +108,32 @@ Box model is every HTML element rendered in the browser has a box. The box has 4
 HTML Composition -
 
 CSS Properties -
+
+### Loops with Arrays
+
+What is an array?
+
+- A container that you can select and add things into it.
+
+Select items by "index" - location of a spot ni the array.
+
+Grabbing the first thing - array[0]
+
+array[0] = 5;
+
+array.push(5);
+
+console.log(array); //=>[5]
+let lastThingAdded = array.pop();
+
+console.log(firstThing); //=> 5
+
+What is a loop?
+
+Code that runs more than once (ideally)
+
+for(){}
+
+while () {}
+
+do {} while ()
