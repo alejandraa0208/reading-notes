@@ -76,3 +76,35 @@ Margin - space between element borders and any neighboring elements
 ### Things I want to know more about
 
 Learning more short hand in JS so i do not have a messy code.
+
+### LECTURE NOTES
+
+JS Conditional Operatoors/ Truthy Falsy Values
+
+Operators:
+
+== weak equality - less strict, compares and matches
+
+===  strong equality - more strict, checks to make sure data types are the same
+
+Example:
+
+'33' == 33 => true
+
+'33' === 33 => false
+
+&& logical And - true && false => false
+
+| | logical Or - true | | false => true
+
+Asking users to create an account with username and password but wont create it without the information needed.
+
+! - logical inverse (not)
+
+### CSS Box Model
+
+Box model is every HTML element rendered in the browser has a box. The box has 4 layers. The layers are: size of content, padding - space around content, border - by default elements dont have a border unless you add it between padding and margin, and margin -the outer most layer, space between the border and any sibliing HTML element.  
+
+HTML Composition -
+
+CSS Properties -
