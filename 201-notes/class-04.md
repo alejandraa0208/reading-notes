@@ -49,4 +49,8 @@ This page is to get more into CSS layouts and reusable coding.
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
-- Two benefits are increased collaboration and learning and improved code quality. These benefit my coding journey because it actively helps improve my technique by opening up my perspectives and giving me more knowledge. 
+- Two benefits are increased collaboration and learning and improved code quality. These benefit my coding journey because it actively helps improve my technique by opening up my perspectives and giving me more knowledge.
+
+## Things I want to know more about
+
+I would love to get into pair programming because bettering my coding technique is all I thrive for. 
