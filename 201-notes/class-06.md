@@ -8,6 +8,8 @@
 
 2.What are some advantages to creating object literals?
 
+- Advatages are simplicity and readability and object composition.
+
 3.How do objects differ from arrays?
 
 - Arrays are ordered lists of elements and objects are collections of key-valued pairs.
