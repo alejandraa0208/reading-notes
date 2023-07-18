@@ -38,3 +38,28 @@
 
 Based off my experience working as a Fraud Operations specialist at Wellsfargo. Prototypes can be represented by senior fraud specialists like myself that has a well-defined knowledge and the procedures of our department. Inheritance can be represented by any new hires that need to be trained by the senior specialist to learn the knowledge and procedures being able to handle the inquires just like the senior specialist would be able to. 
 NOTE: This is a very common front end developer interview question. 
+
+
+## Lecture Notes
+
+### JS Constructor Functions
+
+A function that produces a object.
+
+Example: 
+
+function createPokemon(name,type) {
+    
+    let object = {
+        name: name,
+        type: type,
+    }
+    return object
+}
+
+capatalized 'P' is constructor
+function Pokemon(name, type) {
+    
+    this.name = name;
+    this.type = type;
+} 
