@@ -41,4 +41,21 @@ My background includes 4 years of military experience in the intelligence field.
    - [Class 14 Notes](./201-notes/class-14.md)
    - [Class 15 Notes](./201-notes/class-15.md)
 4. Code 301 - Intermediate Software Development
+
+   - [Class 01 Notes](./301-notes/class-01.md)
+   - [Class 02 Notes](./301-notes/class-02.md)
+   - [Class 03 Notes](./301-notes/class-03.md)
+   - [Class 04 Notes](./301-notes/class-04.md)
+   - [Class 05 Notes](./301-notes/class-05.md)
+   - [Class 06 Notes](./301-notes/class-06.md)
+   - [Class 07 Notes](./301-notes/class-07.md)
+   - [Class 08 Notes](./301-notes/class-08.md)
+   - [Class 09 Notes](./301-notes/class-09.md)
+   - [Class 10 Notes](./301-notes/class-10.md)
+   - [Class 11 Notes](./301-notes/class-11.md)
+   - [Class 12 Notes](./301-notes/class-12.md)
+   - [Class 13 Notes](./301-notes/class-13.md)
+   - [Class 14 Notes](./301-notes/class-14.md)
+   - [Class 15 Notes](./301-notes/class-15.md)
+
 5. Code 401 - Addvanced Software Development
