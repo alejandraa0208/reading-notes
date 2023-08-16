@@ -46,6 +46,24 @@ const obj2 = { z: 3 };
 const combinedObject = { ...obj1, ...obj2 };
 console.log(combinedObject);
 
+## How to Pass Functions Between Components
+
+In the video, what is the first step that the developer does to pass functions between components?
+
+- The developer used the increment to pass to person.
+
+In your own words, what does the increment function do?
+
+- Its code that increases the value of a variable by a specific amount.
+
+How can you pass a method from a parent component into a child component?
+
+- Use props to pass parent component and child component.
+
+How does the child component invoke a method that was passed to it from a parent component?
+
+- when you call it with the prop name.
+
 ## Things I Want To Know More About
 
 n/a
