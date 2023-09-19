@@ -60,6 +60,7 @@ My background includes 4 years of military experience in the intelligence field.
 
 5. Code 401 - Addvanced Software Development
 
+- [Engineering Reading](./401-notes/Engineering.md)
 - [Class 01 Notes](./401-notes/class-01.md)
 - [Class 02 Notes](./401-notes/class-02.md)
 - [Class 03 Notes](./401-notes/class-03.md)
