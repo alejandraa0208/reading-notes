@@ -57,5 +57,4 @@ Compliance: Some regulations and security standards require informative error me
 
 Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
 
-
 Had some help with chat GPT
