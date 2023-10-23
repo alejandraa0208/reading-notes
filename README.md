@@ -83,3 +83,5 @@ My background includes 4 years of military experience in the intelligence field.
 - [Class 17 Notes](./401-notes/class-17.md)
 - [Class 18 Notes](./401-notes/class-18.md)
 - [Class 19 Notes](./401-notes/class-19.md)
+- [Class 26 Notes](./401-notes/class-26.md)
+- [Class 27 Notes](./401-notes/class-27.md)
